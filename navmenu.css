@@ -1,11 +1,23 @@
 .homebutton{
     display: block;
     position: absolute;
-    width: 40px;
+    width: auto;
+    height: 36px;
     text-align: center;
 }
 .navcontainer {
     display: flex;
     justify-content: flex-end;
+    background-color: lightpink;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: 36px;
+    width: 100%;
+}
+.navitem{
+    margin-right: 1em;
+    border-style: dashed;
+    border-radius: 2px;
+    border-width: 3px;
     
 }
