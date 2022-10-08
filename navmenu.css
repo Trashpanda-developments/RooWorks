@@ -1,0 +1,11 @@
+.homebutton{
+    display: block;
+    position: absolute;
+    width: 40px;
+    text-align: center;
+}
+.navcontainer {
+    display: flex;
+    justify-content: flex-end;
+    
+}
