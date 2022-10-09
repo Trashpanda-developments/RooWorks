@@ -1,4 +1,9 @@
+.headcontainer{
+    background-color: rgba(255, 82, 206, 0.638);
+}
 .homebutton{
+    margin-top: 1em;
+    margin-left: 1em;
     display: block;
     position: absolute;
     width: auto;
@@ -11,7 +16,7 @@
     background-color: lightpink;
     flex-wrap: nowrap;
     align-items: center;
-    height: 36px;
+    height: 4em;
     width: 100%;
 }
 .navitem{

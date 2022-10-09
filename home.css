@@ -1,0 +1,9 @@
+.homepagecontainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.homeblock{
+    min-width: 25%;
+    max-width: 50%;
+}
