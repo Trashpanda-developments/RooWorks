@@ -9,10 +9,11 @@
 .homeblock{
     display: flex;
     color: black;
-    width: 600px;
+    width: auto;
     height: 350px;
     margin:2em;
 }
+
 .homepara{
     text-align: left;
     color: black;
@@ -21,7 +22,4 @@
 .homeimg{
    color: black;
    width: 199px;
-}
-.homeblock h1{
-   position:sticky;
 }
