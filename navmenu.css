@@ -1,4 +1,5 @@
 .headcontainer{
+    width: 100%;
     background-color: rgba(255, 82, 206, 0.638);
 }
 .homebutton{
@@ -27,4 +28,8 @@
     border-style: dotted;
     border-radius: 2px;
     border-width: 3px;  
+}
+.pagetitle{
+    text-align: center;
+    width: 100%;
 }
