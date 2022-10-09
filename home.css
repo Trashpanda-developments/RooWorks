@@ -3,16 +3,25 @@
     display: flex;
     justify-content:space-evenly;
     align-items: center;
-    flex-wrap: wrap;
-    flex-direction: row;
+    flex-flow: row wrap;
     background-color: rgba(255, 85, 249, 0.681);
 }
 .homeblock{
+    display: flex;
     color: black;
+    width: 600px;
+    height: 350px;
+    margin:2em;
 }
 .homepara{
+    text-align: left;
     color: black;
+    width: 199px;
 }
 .homeimg{
    color: black;
+   width: 199px;
+}
+.homeblock h1{
+   position:sticky;
 }
