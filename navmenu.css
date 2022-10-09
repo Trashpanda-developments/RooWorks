@@ -20,9 +20,11 @@
     width: 100%;
 }
 .navitem{
-    margin-right: 1em;
-    border-style: dashed;
+    text-align: center;
+    margin: 1em;
+    height: 1.5em;
+    width: 60px;
+    border-style: dotted;
     border-radius: 2px;
-    border-width: 3px;
-    
+    border-width: 3px;  
 }
