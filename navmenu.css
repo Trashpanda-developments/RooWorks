@@ -7,15 +7,15 @@
     margin-left: 1em;
     display: block;
     position: absolute;
-    width: auto;
+    width: 120px;
     height: 36px;
     text-align: center;
 }
 .navcontainer {
+    
     display: flex;
     justify-content: flex-end;
     background-color: lightpink;
-    flex-wrap: nowrap;
     align-items: center;
     height: 4em;
     width: 100%;
@@ -24,7 +24,7 @@
     text-align: center;
     margin: 1em;
     height: 1.5em;
-    width: 60px;
+    width: 120px;
     border-style: dotted;
     border-radius: 2px;
     border-width: 3px;  

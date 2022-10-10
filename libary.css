@@ -5,7 +5,7 @@
     justify-content: center;
 }
 .libaryItem {
-	width: 355px;
+	width: 550px;
 	height: 480px;
 	border-style: dashed;
 	border-width: 0.15em;
@@ -16,6 +16,6 @@
  height: 240px;
 }
 .ItemText {
-	width: 345px;
+	width: auto;
 	margin-left: 5px;
 }
