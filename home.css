@@ -1,10 +1,14 @@
-.homepagecontainer{
+
+#homepagecontainer{
+    /*background-image: url("http://erin.web.roads-technology.nl/wp-content/uploads/2021/12/480x480-4.png");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color: rgba(255, 0, 0, 0.2);
     width: 100%;
     display: flex;
     justify-content:space-evenly;
     align-items: center;
     flex-flow: row wrap;
-    background-color: rgba(255, 85, 249, 0.681);
 }
 .homeblock{
     display: flex;
@@ -16,7 +20,8 @@
     min-width: 550px;
     border-style: dotted;
     border-width: 2px;
-    border-color: darkmagenta;
+    /*border-color: darkmagenta;*/
+    background-color: rgba(0, 255, 183, 0.585);
 }
 .homepara{
     text-align: left;
@@ -24,7 +29,7 @@
     min-width: 45%;
 }
 .homepara textarea{
-    background-color: rgba(255, 85, 249, 0.681);
+    /*background-color: rgba(255, 85, 249, 0.681);*/
     width: 100%;
 }
 .homeimg{
@@ -34,9 +39,5 @@
 #homeblock1{
     width: 100%;
     height: auto;
-}
-#homeblock1 .homeimg{
-    width: 500px;
-    min-width: 500px;
 }
 
