@@ -5,6 +5,7 @@
     justify-content: center;
 }
 .libaryItem {
+	background-color: rgba(0, 255, 183, 0.585);
 	width: 550px;
 	height: 480px;
 	border-style: dashed;
