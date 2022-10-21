@@ -1,6 +1,7 @@
 .headcontainer{
     width: 100%;
-    background-color: rgba(255, 82, 206, 0.638);
+    background-color: rgba(0, 255, 183, 0.585);
+    /*background-color: rgba(255, 82, 206, 0.638);*/
 }
 .homebutton{
     margin-top: 1em;
@@ -16,7 +17,7 @@
     
     display: flex;
     justify-content: flex-end;
-    background-color: lightpink;
+    /*background-color: lightpink;*/
     align-items: center;
     flex-wrap: wrap;
     height: 4em;

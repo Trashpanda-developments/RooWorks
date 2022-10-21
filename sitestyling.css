@@ -1,8 +1,14 @@
 body{
     font-size: 1.2em;
 }
+.pagecontainer {
+    background-image: url("http://erin.web.roads-technology.nl/wp-content/uploads/2021/12/480x480-4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .pagetitle {
-    background-color: rgb(177, 42, 177);
+    /*background-color: rgb(177, 42, 177);*/
+    font-size: larger;
 }
 .pagetitle div {
     text-transform: uppercase;
