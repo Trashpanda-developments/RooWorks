@@ -1,10 +1,11 @@
 .homeBanner{
     height: 350px;
 }
-.homeBanner img{
+.homeBannerImg{
     height: 350px;
     width: 60%;
     margin-left: 20%;
+    position:absolute;
 }
 #homepagecontainer{
     /*background-image: url("http://erin.web.roads-technology.nl/wp-content/uploads/2021/12/480x480-4.png");
