@@ -1,9 +1,16 @@
-
+.homeBanner{
+    height: 350px;
+}
+.homeBanner img{
+    height: 350px;
+    width: 60%;
+    margin-left: 20%;
+}
 #homepagecontainer{
     /*background-image: url("http://erin.web.roads-technology.nl/wp-content/uploads/2021/12/480x480-4.png");
     background-repeat: no-repeat;
     background-size: cover;*/
-    background-color: rgba(255, 0, 0, 0.2);
+    background-color:black ;
     width: 100%;
     display: flex;
     justify-content:space-evenly;
@@ -12,7 +19,7 @@
 }
 .homeblock{
     display: flex;
-    color: black;
+    color: rgb(255, 237, 237);
     width: auto;
     height: 350px;
     margin:2em;
@@ -25,7 +32,7 @@
 }
 .homepara{
     text-align: left;
-    color: black;
+    color: rgb(255, 237, 237);
     min-width: 45%;
 }
 .homepara textarea{
